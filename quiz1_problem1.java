@@ -2,8 +2,8 @@
 
 public class main {
     public static void main(String[] args) {
-        System.out.print("Welcome to Java");
-        System.out.print("Welcome to Computer");
+        System.out.print("Welcome to Java \n");
+        System.out.print("Welcome to Computer \n");
         System.out.print("Programming is fun");
     }
 }
