@@ -1,4 +1,4 @@
-public class Q1P8 {
+public class Q1P08 {
     public static void main(String[] args) {
 
         double radius = 5.5;
