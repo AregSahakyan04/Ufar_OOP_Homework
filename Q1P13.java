@@ -1,4 +1,4 @@
-public class Main {
+public class Q1P13 {
     public static void main(String[] args) {
 
         double a = 3.4;
