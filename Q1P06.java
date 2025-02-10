@@ -1,4 +1,4 @@
-public class Q1P6 {
+public class Q1P06 {
     public static void main(String[] args) {
         int sum = 0;
 
