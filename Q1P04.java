@@ -6,7 +6,7 @@
 // 4  16  64
 
 
-public class Q1P4{
+public class Q1P04{
     public static void main (String[] args) {
         int a = 1;
         System.out.print("a   a^2 a^3 \n");
