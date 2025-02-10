@@ -1,4 +1,4 @@
-public class main {
+public class Q1P12 {
     public static void main(String[] args) {
 
         double distanceMiles = 24.0;
