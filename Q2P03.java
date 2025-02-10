@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q2P3 {
+public class Q2P03 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("enter the feet: ");
