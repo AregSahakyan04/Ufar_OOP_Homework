@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q2P8 {
+public class Q2P08 {
     public static void main(String[] arsg) {
         System.out.print("To display the time, enter the time zone: ");
         
