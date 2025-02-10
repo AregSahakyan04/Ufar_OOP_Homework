@@ -1,4 +1,4 @@
-public class main {
+public class Q1P11 {
     public static void main(String[] args) {
         int currentPopulation = 312032486;
         int secondsInYear = 365 * 24 * 60 * 60;
