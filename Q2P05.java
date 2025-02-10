@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q2P5 {
+public class Q2P05 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter subtotal and the gratuity rate: ");
