@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class C3P01 {
+public class Q3P01 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter values for a, b, and c now: ");
