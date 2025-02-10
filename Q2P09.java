@@ -1,7 +1,7 @@
 import static java.lang.System.*;
 import java.util.Scanner;
 
-public class Q2P9 {
+public class Q2P09 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter v0, v1, and t: ");
