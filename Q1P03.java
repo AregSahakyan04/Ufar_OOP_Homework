@@ -4,6 +4,7 @@
 // J   J   AAAAA     V V     AAAAA
 //  J J   A     A     V     A     A
 
+
 public class Q1P03 {
     public static void main(String[] args) {
                 String[] pattern = {
