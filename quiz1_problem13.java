@@ -19,7 +19,7 @@ public class Main {
             System.out.printf("The value of y is: " + y);
         } 
         else {
-            System.out.println("The equations have no unique solution.");
+            System.out.println("There is no solution");
         }
     }
 }
