@@ -1,4 +1,4 @@
-public class Q1P9 {
+public class Q1P09 {
     public static void main(String[] args) {
 
         double height = 7.9;
